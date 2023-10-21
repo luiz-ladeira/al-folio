@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: immune digital twins
 description: another without an image
 img: assets/img/idt.png
 redirect: https://immunedt.github.io/
