@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+🚧 This page is under construction 🚧
+
 Hi there! My name is Luiz, I'm a postdoctoral researcher at the [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/) at the [GIGA Institute - In Silico Medicine](https://www.giga.uliege.be/cms/c_4113263/fr/giga), part of the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege), in Belgium, since 2021, under the supervision of [Prof. Liesbet Geris](http://www.biomech.ulg.ac.be/team/liesbet-geris/). I'm currently working on the [ONTOX project](https://ontox-project.eu/), designing molecular interaction pathway maps, which we call Physiological Maps. But I also collaborate in various other systems biology and toxicology projects and you can find some of them in the [Projects](https://luiz-ladeira.github.io/projects/) tab here.
 
 Before I joined the Biomechanics Research Unit, I graduated with PhD and MSc in [Cell and Structural Biology](http://www.biocel.ufv.br/) from the [Federal University of Viçosa](https://www.ufv.br/), in Brazil. During that period, I researched toxicological and pharmaceutical effects of phytochemicals from native and exotic plant species in different in vivo models for metabolic diseases, such as liver steatosis and type 1 diabetes nephropathy and cardiomyopathy, under the supervision of [Prof. Izabel Maldonado](http://lattes.cnpq.br/2912503249825088). I also collaborated on different environmental and reproductive toxicology projects and food and nutrition projects in different in vivo models.
