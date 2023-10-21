@@ -6,8 +6,10 @@ img: assets/img/ontox.png
 redirect: https://ontox-project.eu/
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+
 ---
+
+#related_publications: einstein1956investigations, einstein1950meaning
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
