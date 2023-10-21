@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I gave on the Brazilian parliament
+title: I gave a talk on the Brazilian parliament
 date: 2023-10-21 18:31
 inline: false
 related_posts: false
