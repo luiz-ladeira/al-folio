@@ -1,8 +1,9 @@
 ---
 layout: page
 title: ONTOX
-description: a project with a background image
-img: assets/img/ONTOX_Full_logo.jpg
+description: ONTOX: ontology-driven and artificial intelligence-based repeated dose toxicity testing of chemicals for next generation risk assessment
+img: assets/img/ontox.png
+redirect: https://ontox-project.eu/
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

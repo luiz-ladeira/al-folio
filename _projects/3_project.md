@@ -2,8 +2,7 @@
 layout: page
 title: TF-maps
 description: a project that redirects to another website
-img: assets/img/tf-maps.png
-redirect: https://unsplash.com
+img: assets/img/tfmaps.png
 importance: 3
 category: work
 ---

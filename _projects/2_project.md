@@ -2,10 +2,11 @@
 layout: page
 title: Metabolism Regulation
 description: a project with a background image and giscus comments
-img: assets/img/mr-logo5.png
+img: assets/img/metabolismreg.png
+redirect: https://metabolismregulation.github.io/
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
