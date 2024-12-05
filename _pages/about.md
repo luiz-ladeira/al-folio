@@ -16,7 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🚧 This page is under construction 🚧
 
 Hi there! My name is Luiz and I'm a postdoctoral researcher at the [Biomechanics Research Unit](http://www.biomech.ulg.ac.be/) at the [GIGA Institute - In Silico Medicine](https://www.giga.uliege.be/cms/c_4113263/fr/giga), part of the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege), in Belgium, since 2021, under the supervision of [Prof. Liesbet Geris](http://www.biomech.ulg.ac.be/team/liesbet-geris/). I'm currently working on the [ONTOX project](https://ontox-project.eu/), designing molecular interaction pathway maps, which we call Physiological Maps. But I also collaborate on various other systems biology and toxicology projects.
 

@@ -4,7 +4,7 @@ title: news
 permalink: /news/
 subtitle:
 description:
-nav: true
+nav: false
 nav_order: 4
 news: true  # includes a list of news items
 ---
